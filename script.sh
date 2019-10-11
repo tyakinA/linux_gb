@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello team!
+echo Hello team!
